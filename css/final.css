@@ -4,7 +4,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
-  border: 1px solid #000000;
+  /* border: 1px solid #000000; */
  
 }
 
@@ -447,15 +447,14 @@ h2 {
  
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
-          justify-content: space-start;      
-
+          justify-content: space-start;
 }
 
 .case-study-item {
   position: relative;
-  max-width: 300px;
+  max-width: 50%;
   margin-top: 40px;
-  padding-right: 20px;
+  padding: 10px;
 }
 
 .img_div{
@@ -925,7 +924,6 @@ h2 {
   .case-details-item {
     padding-right: 25px !important;
   }
-
 }
 
 .case-details-item {
@@ -1050,9 +1048,6 @@ h2 {
   }
   .case-card {
     top: -40px;
-  }
-  .case-study-item {
-    padding-right: 0px;
   }
 }
 
