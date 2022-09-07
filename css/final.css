@@ -146,8 +146,6 @@ footer {
   margin: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
-  
-
 }
 
 
@@ -206,7 +204,15 @@ input{
     font-size: 20px;
   }
 
- 
+  .burger {
+    display: block;
+    height: 68px;
+    width: 100%;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  
   
 }
 
@@ -1045,6 +1051,16 @@ h2 {
     background: #7E54AF;
     color: #fff;
   }
+  
+  .burger {
+    display: block;
+    height: 68px;
+    width: 100%;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
    input:checked ~ .menu{
     max-height: 1000px;
     width: 100%;
