@@ -207,7 +207,7 @@ input{
   .burger {
     display: block;
     height: 68px;
-    width: 100%;
+    width: auto;
     margin: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -1051,7 +1051,7 @@ h2 {
     background: #7E54AF;
     color: #fff;
   }
-  
+
   .burger {
     display: block;
     height: 68px;
