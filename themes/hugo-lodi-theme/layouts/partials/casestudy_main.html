@@ -1,0 +1,61 @@
+<body>
+    <img class="headimg" src="img/{{ .Params.case_feature_img }}" alt="">
+</body>
+
+<section>
+    <div class="main-case-study">
+        <div class="case-card">
+            <div class="project-tag-time">
+                <div class="project-tag">
+                    <div class="tag">{{ .Params.case_tagfirst }}</div>
+                    <div class="tag">{{ .Params.case_tagsecond }}</div>
+                </div>
+                <p class="project-year">{{ .Params.case_projectyear }}</p>
+            </div>
+            <h2 class="headline">{{ .Params.case_headline }}
+                <span class="headline_span">{{ .Params.case_headline_span }}</span>
+            </h2>
+            <div class="project-info-group">
+                <div class="project-info-item">
+                    <h6 class="caption">{{ .Params.case_Time }}</h6>
+                    <p class="caption_text">{{ .Params.case_Time_text }}</p>
+                </div>
+                <div class="project-info-item">
+                    <h6 class="caption">{{ .Params.case_Time2 }}</h6>
+                    <p class="caption_text">{{ .Params.case_Time_text2 }}</p>
+                </div>
+                <div class="project-info-item">
+                    <h6 class="caption">{{ .Params.case_Time3 }}</h6>
+                    <p class="caption_text">{{ .Params.case_Time_text3 }}</p>
+                </div>
+                <div class="project-info-item">
+                    <h6 class="caption">{{ .Params.case_Time4 }}</h6>
+                    <p class="caption_text">{{ .Params.case_Time_text4 }}</p>
+                </div>
+            </div>
+        </div>
+        <div class="work-headline-box">
+            <h2 class="headline-overview">Project overview</h2>
+            <div class="work-divider"></div>
+        </div>
+        <div class="overviewbox">
+            <div class="overviewitem">
+                <h1 class="Objective">{{ .Params.ovreview_objective }}</h1>
+                <p class="body-1">{{ .Params.overview_body1 }}</p>
+            </div>
+            <div class="overviewitem">
+                <h1 class="Objective">{{ .Params.ovreview_role }}</h1>
+                <p class="body-1">{{ .Params.overview_body2 }}</p>
+            </div>
+            <div class="overviewitem">
+                <h1 class="Objective">{{ .Params.ovreview_challenge }}</h1>
+                <p class="body-1">{{ .Params.overview_body3 }}</p>
+            </div>
+            <div class="overviewitem">
+                <h1 class="Objective">{{ .Params.ovreview_impact }}</h1>
+                <p class="body-1">{{ .Params.overview_body4 }}</p>
+            </div>
+           
+        </div>
+    </div>
+</section>
