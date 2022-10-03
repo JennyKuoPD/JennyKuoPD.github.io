@@ -142,7 +142,7 @@ footer {
 .burger {
   display: block;
   height: 68px;
-  width: auto;
+  width: 100%;
   margin: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
