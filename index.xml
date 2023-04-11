@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language><atom:link href="https://jennyKuopd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Record diet | Jenny</title>
-      <link>https://jennyKuopd.github.io/diet/</link>
+      <title>7.8 eReader | Jenny</title>
+      <link>https://jennyKuopd.github.io/reader/</link>
       <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
       
-      <guid>https://jennyKuopd.github.io/diet/</guid>
-      <description>Background The company sells health examination programs from major hospitals, and diet records are a part of health promotion. We hope to help users keep daily diet records, help maintain weight, lose weight, gain weight, etc., through the calculation methods of six categories of food, guide Users make daily calorie calculations or food records.
-I found that there are still many problems that need to be clarified in the needs provided by PM.</description>
+      <guid>https://jennyKuopd.github.io/reader/</guid>
+      <description>Background Mobiscribe is a US brand that specializes in designing and manufacturing e-paper products in Taiwan. The Wave is a 7.8-inch E-Ink e-reader available in two versions - B&amp;amp;W and Color.
+The B&amp;amp;W version features a 300 PPI display, while the Color version has a 100 PPI display. Both displays have a resolution of 1404 x 1872 pixels and come with a stylus pen for note-taking and drawing. The Wave runs on the latest open-source Android12 operating system, which allows users to access the Google Play store for a wide variety of apps.</description>
+    </item>
+    
+    <item>
+      <title>Telephone Consultation | Jenny</title>
+      <link>https://jennyKuopd.github.io/consultation/</link>
+      <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
+      
+      <guid>https://jennyKuopd.github.io/consultation/</guid>
+      <description>Background The company focuses on health and has developed telemedicine-related businesses before the outbreak of Covid-19. It provides diverse online consultation services with doctors, including text-based and video-based consultations. Text-based consultation requires users to input text and upload images, and doctors will reply within 48 hours. The disadvantage is that the waiting time is too long. Video-based consultation is a high-priced service. Therefore, the company wanted to find a solution that could meet in the middle and came up with a telephone consultation mode.</description>
     </item>
     
     <item>
@@ -24,6 +33,16 @@ I found that there are still many problems that need to be clarified in the need
       <guid>https://jennyKuopd.github.io/habit/</guid>
       <description>Background The company sells health check programs from major hospitals and observes that existing users are health-conscious groups, so it develops habit-building services. The difference from other competing products is that we preset 6 items, namely diet, lifestyle, water intake, sleep, exercise, others, and hope to help users maintain health.
 Competitive Analysis Observing the processes and mechanisms of other products, we converge on the demand to move towards a healthy direction.</description>
+    </item>
+    
+    <item>
+      <title>Record diet | Jenny</title>
+      <link>https://jennyKuopd.github.io/diet/</link>
+      <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
+      
+      <guid>https://jennyKuopd.github.io/diet/</guid>
+      <description>Background The company sells health examination programs from major hospitals, and diet records are a part of health promotion. We hope to help users keep daily diet records, help maintain weight, lose weight, gain weight, etc., through the calculation methods of six categories of food, guide Users make daily calorie calculations or food records.
+I found that there are still many problems that need to be clarified in the needs provided by PM.</description>
     </item>
     
   </channel>
